@@ -1,4 +1,5 @@
 a.box {
+  test
   border: 2px solid #ccc;
   padding: 20px;
   margin: 15px;
@@ -22,4 +23,5 @@ a.box {
   line-height: 80px;
 }
 >>>>>>> Stashed changes
+
 
